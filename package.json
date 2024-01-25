@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "figlet": "^1.7.0",
+    "nodemon": "^3.0.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a demo backend pratice",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "siba prasad behera",
+  "license": "ISC"
+}
